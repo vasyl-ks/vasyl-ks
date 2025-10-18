@@ -2,11 +2,6 @@
 
 <h1>👋 Hi, I'm Vasyl</h1>
 
-🎓 CS student at Polytechnic University of Valencia (UPV)<br>
-🧑‍💻 Backend Engineer at Hyperloop UPV<br>
-🎯 Driven to build software that matters!<br>
-🌍 Valencia, Spain
-
 ---
 
 <h2>💻  Stack</h2>
