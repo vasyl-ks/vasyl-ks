@@ -43,6 +43,6 @@ Developed during Training Month as a Backend Engineer at Hyperloop UPV, integrat
 
 ---
 
-<h2 align="center"> "The more I build, the more I love this."</h2>
+<h1 align="center"> "The more I build, the more I love this."</h2>
 
 ---
