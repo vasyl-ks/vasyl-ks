@@ -1,6 +1,6 @@
 ---
 
-<h1>👋 Hi, I'm Vasyl</h1>
+<h1 align="center">👋 Hello Word! — Vasyl</h1>
 
 ---
 
