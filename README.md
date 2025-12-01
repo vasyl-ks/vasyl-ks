@@ -31,6 +31,10 @@
 
 <h2>🚀 Projects</h2>
 
+### [Hyperloop UPV - Software](https://github.com/HyperloopUPV-H8/software)
+Student-led R&D project developing a functional Hyperloop prototype. This repository focuses on software systems for the pod.  
+Contributed to the Go backend that handles real-time communication between the pod and the control station.
+
 ### [Library Management System](https://github.com/vasyl-ks/library-project)
 Modular Java OOP application with custom data structures, user management, and algorithmic sorting.  
 Focused on clean architecture and scalability for real-world use cases.
@@ -42,10 +46,6 @@ Built with Go, React, and WebSockets, containerized using Docker for reproducibl
 ### [TM-software-H11](https://github.com/vasyl-ks/TM-software-H11)
 Four-week Go project simulating a real-time vehicle telemetry system with concurrent components for data exchange and visualization.  
 Developed during Training Month as a Backend Engineer at Hyperloop UPV, integrating backend and frontend into a complete end-to-end system.
-
-### [Hyperloop UPV - Software](https://github.com/HyperloopUPV-H8/software)
-Student-led R&D project developing a functional Hyperloop prototype. This repository focuses on software systems for the pod.  
-Contributed to the Go backend that handles real-time communication between the pod and the control station.
 
 ---
 
