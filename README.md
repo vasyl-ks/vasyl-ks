@@ -43,6 +43,10 @@ Built with Go, React, and WebSockets, containerized using Docker for reproducibl
 Four-week Go project simulating a real-time vehicle telemetry system with concurrent components for data exchange and visualization.  
 Developed during Training Month as a Backend Engineer at Hyperloop UPV, integrating backend and frontend into a complete end-to-end system.
 
+### [Hyperloop UPV - Software](https://github.com/HyperloopUPV-H8/software)
+Student-led R&D project developing a functional Hyperloop prototype. This repository focuses on software systems for the pod.  
+Contributed to the Go backend that handles real-time communication between the pod and the control station.
+
 ---
 
 <h1 align="center"> "The more I build, the more I love this."</h2>
